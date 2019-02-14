@@ -17,5 +17,11 @@ Of course. That's why it's on github.
 
 
 # Download
+```
+fetch -o - https://git.io/fh79u | sh -s
+```
 
-git.io
+# Links
+- [Openfire Product](https://www.igniterealtime.org/projects/openfire/)
+- [Openfire Product documentation](https://www.igniterealtime.org/projects/openfire/documentation.jsp)
+- [Openfire Community](https://discourse.igniterealtime.org/)
