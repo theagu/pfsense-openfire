@@ -10,7 +10,7 @@ install_openfire.sh - prereqs installation and download openfire Openfire 4.3.2
 openfire.sh - rc.d script
 
 # Licensing
-This project itself is licensed according to the two-clause BSD license.
+http://www.wtfpl.net/
 
 # Issues and pull requests
 Of course. That's why it's on github.
