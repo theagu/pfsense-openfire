@@ -2,7 +2,7 @@
 Openfire installation on pfsense
 
 # Purpose
-The objective of this project is to develop and maintain a script that installs Openfire software on FreeBSD-based systems, particularly the pfSense firewall.
+The goal of this project came from the need to deploy an internal messenger / chat without the investment in resources, with this I became public with the objective of developing and maintaining a script that installs Openfire on FreeBSD based systems, particularly the pfSense firewall.
 
 # Files
 install_openfire.sh - prereqs installation and download openfire Openfire 4.3.2
